@@ -2,6 +2,5 @@
 
 import collections
 
-user_inp = input("Give the word ")
-answer = []
-
+first = input("Slovo ")
+first.counter()
